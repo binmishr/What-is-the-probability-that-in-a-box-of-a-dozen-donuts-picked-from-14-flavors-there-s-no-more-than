@@ -1,1 +1,4 @@
-# What-is-the-probability-that-in-a-box-of-a-dozen-donuts-picked-from-14-flavors-there-s-no-more-than-
+# What-is-the-probability-that-in-a-box-of-a-dozen-donuts-picked-from-14-flavors-there-s-no-more-than
+
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
